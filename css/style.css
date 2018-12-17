@@ -1,0 +1,26 @@
+body {
+    
+  background-image: url(https://stopga.me/images/blogs/2016/12/07/YEb4kJQAF.jpg);
+  background-repeat: repeat-x;
+  background-position: center center;
+  font-family: Verdana,sans-serif;
+  font-size: 16px;
+  color: white;
+  background-color: rgb(38, 113, 211);
+  text-align: center;
+  }
+
+img {
+  width: 60%;
+  opacity: 75%;
+}
+
+.all {
+  
+}
+.gdocs {
+  position: relative;
+  height: 400px;
+  width: 95%;
+  top: 125px;
+  }
