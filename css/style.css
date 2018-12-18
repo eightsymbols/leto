@@ -37,6 +37,11 @@ a:visited {
 .gdocs {
   height: 350px;
   width: 95%;
+  border: 2px outset #134f5c;
+}
+
+.vote {
+  
 }
 
 footer {
@@ -45,4 +50,6 @@ footer {
   background: #cfe2f3;
   color: #134f5c;
   font-size: 13px;
+  border: 1px outset #134f5c;
+  
 }
