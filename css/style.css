@@ -20,12 +20,10 @@ a:link {
   font-family: 'Ubuntu', sans-serif;
   color: black;
   text-decoration: none;
-
 }
 
 a:hover {
   color: #134f5c;
-
 }
 
 a:visited {
@@ -34,19 +32,17 @@ a:visited {
 
 .all {
   padding: 125px 0 25px;
-  
 }
-.gdocs {
-  height: 400px;
-  width: 95%;
-    
-  }
 
- footer {
+.gdocs {
+  height: 350px;
+  width: 95%;
+}
+
+footer {
   padding: 5px 10px 5px;
   text-align: left; 
   background: #cfe2f3;
   color: #134f5c;
   font-size: 13px;
-
 }
