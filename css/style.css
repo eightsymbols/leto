@@ -31,11 +31,12 @@ a:visited {
 }
 
 .all {
-  padding: 125px 0 25px;
+  padding: 150px 0 25px;
 }
 
 .gdocs {
-  height: 350px;
+  min-height: 360px;
+  height: 40vh;
   width: 95%;
   border: 2px outset #134f5c;
 }
